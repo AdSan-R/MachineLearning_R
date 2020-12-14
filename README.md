@@ -11,7 +11,7 @@ El objetivo es educativo y divulgtivo, por lo que siéntete libre de usar los da
 
 [Regresión Logística y Näive bayes. Detección de churn bancario](https://github.com/AdSan-R/MachineLearning_R/blob/main/pdf/Regresi%C3%B3n%20Log%C3%ADstica%20y%20N%C3%A4ive%20bayes.%20Detecci%C3%B3n%20de%20churn%20bancario.pdf)
 
-[Árboles de decisión y Random Forest. German Credit Data]
+[Árboles de decisión y Random Forest. German Credit Data](https://github.com/AdSan-R/MachineLearning_R/blob/main/pdf/%C3%81rboles%20de%20decisi%C3%B3n%20y%20Random%20Forest.%20German%20Credit%20Data.pdf)
 
 
 
