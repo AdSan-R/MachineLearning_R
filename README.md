@@ -15,6 +15,8 @@ El objetivo es educativo y divulgtivo, por lo que siéntete libre de usar los da
 
 [Gradient Boosting Machine con métodos de “early stopping” OOV y CV. German Credit Data](https://github.com/AdSan-R/MachineLearning_R/blob/main/pdf/Gradient%20Boosting%20Machine%20con%20m%C3%A9todos%20de%20%E2%80%9Cearly%20stopping%E2%80%9D%20OOV%20y%20CV.%20German%20Credit%20Data.pdf)
 
+[Gradient Boosting Machine ajustando todos los hiperparámetros](https://github.com/AdSan-R/MachineLearning_R/blob/main/pdf/Gradient%20Boosting%20Machine%20ajustando%20todos%20los%20hiperpar%C3%A1metros.pdf)
+
 
 
 
