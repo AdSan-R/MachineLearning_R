@@ -17,6 +17,8 @@ El objetivo es educativo y divulgtivo, por lo que siéntete libre de usar los da
 
 [Gradient Boosting Machine ajustando todos los hiperparámetros](https://github.com/AdSan-R/MachineLearning_R/blob/main/pdf/Gradient%20Boosting%20Machine%20ajustando%20todos%20los%20hiperpar%C3%A1metros.pdf)
 
+[Support Vector Machine con kernlab](https://github.com/AdSan-R/MachineLearning_R/blob/main/pdf/Support%20Vector%20Machine%20con%20kernlab.pdf)
+
 
 
 
