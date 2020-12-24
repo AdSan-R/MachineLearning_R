@@ -19,6 +19,8 @@ El objetivo es educativo y divulgtivo, por lo que siéntete libre de usar los da
 
 [Support Vector Machine con kernlab](https://github.com/AdSan-R/MachineLearning_R/blob/main/pdf/Support%20Vector%20Machine%20con%20kernlab.pdf)
 
+[Support Vector Machine con e1071 (kernels lineal, radial y polinomial)](https://github.com/AdSan-R/MachineLearning_R/blob/main/pdf/Support%20Vector%20Machine%20con%20e1071%20(kernels%20lineal%2C%20radial%20y%20polinomial).pdf)
+
 
 
 
